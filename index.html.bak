@@ -4,13 +4,16 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>iPortfolio Bootstrap Template - Index</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta content="Onvara Meadsavapanmonkol's Resume and Porfolio" name="description">
+    <meta content="Onvara Meadsavapanmonkol, Resume, Porfolio, Interpreter, Translator, Illustrator, Freelancer"
+
+      name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+
       rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -24,12 +27,13 @@
     <!-- =======================================================
   * Template Name: iPortfolio - v3.9.1  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
   </head>
-  <body>
-    <!-- ======= Mobile nav toggle button ======= -->
+  <body> <!-- ======= Mobile nav toggle button ======= -->
     <!-- ======= Header ======= -->
     <header id="header">
       <div class="d-flex flex-column">
-        <div class="profile"> <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <div class="profile"> <img src="assets/img/profile-img.jpg" alt="Picture of me smiling"
+
+            class="img-fluid rounded-circle">
           <h1 class="text-light"><a href="index.html">Onvara Meadsavapanmonkol</a></h1>
           <div class="social-links mt-3 text-center"> </div>
         </div>
@@ -62,8 +66,13 @@
             <h2>About</h2>
           </div>
           <div class="row">
-            <div class="col-lg-4" data-aos="fade-right"> <img src="assets/img/profile-img.jpg"
-                class="img-fluid" alt=""> </div>
+            <div class="col-lg-4" data-aos="fade-right"> <img src="assets/img/profile-img.jpg"
+
+                class="img-fluid" alt="Picture of me smiling"> 
+              <div class="portfolio-info">
+                  <p>Picture of me smiling</p>
+                </div>
+            </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
               <h3>Interpreter &amp; Translator.</h3>
               <p class="fst-italic"> Japanese interpreter makes communication
@@ -113,7 +122,8 @@
                   JLPT N3) <i class="val">50%</i></span>
                 <div class="progress-bar-wrap"> </div>
               </div>
-              <div class="progress"> <span class="skill">Illustration/Manga <i
+              <div class="progress"> <span class="skill">Illustration/Manga <i
+
                     class="val">60%</i></span>
                 <div class="progress-bar-wrap"> </div>
               </div>
@@ -178,69 +188,122 @@
           </div>
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/lawluffy1.png"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/lawluffy1.png"
+
+                  class="img-fluid" alt="One Piece short manga about Law and Luffy in Valentine's Day Page 1">
+                <div class="portfolio-info">
+                  <p>One Piece short manga about Law and Luffy in Valentine's
+                    Day Page 1</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/Zosan1.jpg"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/Zosan1.jpg"
+
+                  class="img-fluid" alt="One Piece short manga about Zoro and Sanji when they're in high school Page 1">
+                <div class="portfolio-info">
+                  <p>One Piece short manga about Zoro and Sanji when they're in
+                    high school Page 1</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/nickname1.jpg"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/nickname1.jpg"
+
+                  class="img-fluid" alt="My character design Her name's Nickname she's smiling and greeting you.">
+                <div class="portfolio-info">
+                  <p>My character design Her name's Nickname she's smiling and
+                    greeting you.</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/sanjicooking.jpg"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/sanjicooking.jpg"
+
+                  class="img-fluid" alt="Picture of Sanji (One Piece's character) in anime scene He's cooking at the marine base G-8.">
+                <div class="portfolio-info">
+                  <p>Picture of Sanji (One Piece's character) in anime scene
+                    He's cooking at the marine base G-8.</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/dante2.png"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/dante2.png"
+
+                  class="img-fluid" alt="My character design Her name's Dante he's posting and hungry.">
+                <div class="portfolio-info">
+                  <p>My character design His name's Dante he's posting and
+                    hungry.</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/sanjibirthday.png"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/sanjibirthday.png"
+
+                  class="img-fluid" alt="Picture of Sanji (One Piece's character) in his birthday.">
+                <div class="portfolio-info">
+                  <p>Picture of Sanji (One Piece's character) in his birthday.</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/nickname2.jpg"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/nickname2.jpg"
+
+                  class="img-fluid" alt="My character design Her name's Nickname she  fell asleep while listening to music.">
+                <div class="portfolio-info">
+                  <p>My character design Her name's Nickname she fell asleep
+                    while listening to music.</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/Zosan2.jpg"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/Zosan2.jpg"
+
+                  class="img-fluid" alt="One Piece short manga about Zoro and Sanji when they're in high school Page 2">
+                <div class="portfolio-info">
+                  <p>One Piece short manga about Zoro and Sanji when they're in
+                    high school Page 2</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/dante1.png"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/dante1.png"
+
+                  class="img-fluid" alt="My character design His name's Dante he's looking at you.">
+                <div class="portfolio-info">
+                  <p>My character design His name's Dante he's looking at you.</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/sanjisummer.png"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/sanjisummer.png"
+
+                  class="img-fluid" alt="Picture of Sanji (One Piece's character) in his green theme.">
+                <div class="portfolio-info">
+                  <p>Picture of Sanji (One Piece's character) in his green
+                    theme.</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/lawluffy2.png"
-                  class="img-fluid" alt="">
-                <div class="portfolio-links"> </div>
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/lawluffy2.png"
+
+                  class="img-fluid" alt="One Piece short manga about Law and Luffy in Valentine's Day Page 2">
+                <div class="portfolio-info">
+                  <p>One Piece short manga about Law and Luffy in Valentine's
+                    Day Page 2</p>
+                  <div class="portfolio-links"> </div>
+                </div>
               </div>
             </div>
           </div>
@@ -269,24 +332,31 @@
                   <h4>Call:</h4>
                   <p>+66 86 362 5724</p>
                 </div>
-                <iframe src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d3875.9377632306596%212d100.56184755043154%213d13.722217801628057%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x30e29f054178e49d%3A0x17031bb97ac0efcc%212zMzE0IOC4quC4uOC4guC4uOC4oeC4p-C4tOC4lyDguYHguILguKfguIcg4LiE4Lil4Lit4LiH4LmA4LiV4LiiIOC5gOC4guC4leC4hOC4peC4reC4h-C5gOC4leC4oiDguIHguKPguLjguIfguYDguJfguJ7guKHguKvguLLguJnguITguKMgMTAxMTA%215e0%213m2%211sth%212sth%214v1665309089573%215m2%211sth%212sth"
-                  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                <iframe src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d3875.9377632306596%212d100.56184755043154%213d13.722217801628057%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x30e29f054178e49d%3A0x17031bb97ac0efcc%212zMzE0IOC4quC4uOC4guC4uOC4oeC4p-C4tOC4lyDguYHguILguKfguIcg4LiE4Lil4Lit4LiH4LmA4LiV4LiiIOC5gOC4guC4leC4hOC4peC4reC4h-C5gOC4leC4oiDguIHguKPguLjguIfguYDguJfguJ7guKHguKvguLLguJnguITguKMgMTAxMTA%215e0%213m2%211sth%212sth%214v1665309089573%215m2%211sth%212sth"
+
+                  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+
                   height="290px" width="100%"></iframe> </div>
             </div>
             <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
               <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="row">
                   <div class="form-group col-md-6"> <label for="name">Your Name</label>
-                    <input name="name" class="form-control" id="name" required=""
+                    <input name="name" class="form-control" id="name" required=""
+
                       type="text"> </div>
                   <div class="form-group col-md-6"> <label for="name">Your
-                      Email</label> <input class="form-control" name="email" id="email"
+                      Email</label> <input class="form-control" name="email" id="email"
+
                       required="" type="email"> </div>
                 </div>
-                <div class="form-group"> <label for="name">Subject</label> <input
-                    class="form-control" name="subject" id="subject" required=""
+                <div class="form-group"> <label for="name">Subject</label> <input
+
+                    class="form-control" name="subject" id="subject" required=""
+
                     type="text"> </div>
-                <div class="form-group"> <label for="name">Message</label> <textarea
+                <div class="form-group"> <label for="name">Message</label> <textarea
+
 class="form-control" name="message" rows="10" required=""></textarea> </div>
                 <div class="my-3">
                   <div class="loading">Loading</div>
